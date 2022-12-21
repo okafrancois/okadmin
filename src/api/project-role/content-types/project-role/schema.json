@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "project_roles",
+  "info": {
+    "singularName": "project-role",
+    "pluralName": "project-roles",
+    "displayName": "Project Role"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
